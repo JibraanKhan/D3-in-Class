@@ -13,7 +13,7 @@ var people = [
   personMaker("dead", "too ok", 1)
 ]
 
-var headers = [{header1:'Header 1', header2:'Header 2', header3:'Header 3'}]
+var headers = [{header1:'Mental State', header2:'Physical State', header3:'Amount of Kidneys'}]
 
 var table = body.append('table')
 var header_row = table.selectAll('tr')
